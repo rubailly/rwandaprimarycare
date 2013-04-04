@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/29458/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/27248/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/login.jsp
+END
+enterSimpleEncounter.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/29458/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/enterSimpleEncounter.jsp
+END
+addIdentifier.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/27685/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/addIdentifier.jsp
+END
+patientIsPresent.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/29458/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/patientIsPresent.jsp
+END
+chooseLocation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/27248/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/chooseLocation.jsp
+END
+findPatientByName.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/29458/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/findPatientByName.jsp
+END
+findPatientByNameAjax.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/27248/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/findPatientByNameAjax.jsp
+END
+homepage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/29458/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/homepage.jsp
+END
+insuranceInformation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/29458/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/insuranceInformation.jsp
+END
+findPatientByNameConfirm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/27248/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/findPatientByNameConfirm.jsp
+END
+encounter.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/28558/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/encounter.jsp
+END
+printBarCode.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/27250/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/printBarCode.jsp
+END
+backenterPatientVisit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/29458/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/backenterPatientVisit.jsp
+END
+serviceRequested.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/29458/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/serviceRequested.jsp
+END
+uncaughtException.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/27248/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/uncaughtException.jsp
+END
+findPatientById.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/27685/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/findPatientById.jsp
+END
+myProperties.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/27248/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/myProperties.jsp
+END
+keyboardType.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/27248/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/keyboardType.jsp
+END
+patientResults.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/27248/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/patientResults.jspf
+END
+patientResultsTableYellow.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/27248/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/patientResultsTableYellow.jspf
+END
+patient.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/29458/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/patient.jsp
+END
+manageIdentifiers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/27248/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/manageIdentifiers.jsp
+END
+primaryCareUncaughtException.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/27248/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/primaryCareUncaughtException.jsp
+END
+patientResultsTableWhite.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/27248/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/patientResultsTableWhite.jspf
+END
+chooseLanguage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/27253/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/chooseLanguage.jsp
+END
+bulkGenerateIds.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/27248/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/bulkGenerateIds.jsp
+END
+visitDate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/29458/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/visitDate.jsp
+END
+editPatient.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/27685/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/editPatient.jsp
+END
+prePrintBarcodes.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/27248/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/prePrintBarcodes.jsp
+END
+barCode.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/27910/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/barCode.jsp
+END
+allEncounters.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/27248/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/allEncounters.jsp
+END
+createNewPatient.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/27685/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/createNewPatient.jsp
+END

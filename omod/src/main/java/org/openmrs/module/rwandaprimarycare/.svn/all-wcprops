@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/29458/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/java/org/openmrs/module/rwandaprimarycare
+END
+GenerateIdsForOtherLocationsController.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/27253/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/java/org/openmrs/module/rwandaprimarycare/GenerateIdsForOtherLocationsController.java
+END
+RwandaPrimaryCarePatientDashboardController.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/!svn/ver/29458/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/java/org/openmrs/module/rwandaprimarycare/RwandaPrimaryCarePatientDashboardController.java
+END
+ViewEncounterController.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/29458/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/java/org/openmrs/module/rwandaprimarycare/ViewEncounterController.java
+END
+FindPatientByNameController.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/27910/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/java/org/openmrs/module/rwandaprimarycare/FindPatientByNameController.java
+END
+HomepageController.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/29458/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/java/org/openmrs/module/rwandaprimarycare/HomepageController.java
+END
+Question.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/27248/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/java/org/openmrs/module/rwandaprimarycare/Question.java
+END
+LoginController.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/27253/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/java/org/openmrs/module/rwandaprimarycare/LoginController.java
+END
+EnterSimpleEncounterController.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/29458/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/java/org/openmrs/module/rwandaprimarycare/EnterSimpleEncounterController.java
+END
+BulkIdsController.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/27248/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/java/org/openmrs/module/rwandaprimarycare/BulkIdsController.java
+END
+ManageIdentifiersController.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/28215/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/java/org/openmrs/module/rwandaprimarycare/ManageIdentifiersController.java
+END
+CreateNewPatientController.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/28215/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/java/org/openmrs/module/rwandaprimarycare/CreateNewPatientController.java
+END
+AllEncountersController.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/28558/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/java/org/openmrs/module/rwandaprimarycare/AllEncountersController.java
+END
+PrimaryCareWebLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/27248/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/java/org/openmrs/module/rwandaprimarycare/PrimaryCareWebLogic.java
+END
+BarCodeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/27685/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/java/org/openmrs/module/rwandaprimarycare/BarCodeController.java
+END
+MyPropertiesController.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/27248/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/java/org/openmrs/module/rwandaprimarycare/MyPropertiesController.java
+END
+RecentlyViewedPatients.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/27248/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/java/org/openmrs/module/rwandaprimarycare/RecentlyViewedPatients.java
+END
+FindPatientByIdController.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/27248/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/java/org/openmrs/module/rwandaprimarycare/FindPatientByIdController.java
+END
+PrePrintBarcodesController.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/27248/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/java/org/openmrs/module/rwandaprimarycare/PrePrintBarcodesController.java
+END
+EditPatientController.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/28215/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/java/org/openmrs/module/rwandaprimarycare/EditPatientController.java
+END

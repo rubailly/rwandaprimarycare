@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/27686/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/tags
+END
+resultsList.tag
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/27248/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/tags/resultsList.tag
+END
+encounterButton.tag
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/27248/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/tags/encounterButton.tag
+END
+patientButton.tag
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/27248/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/tags/patientButton.tag
+END
+textInput.tag
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/27686/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/tags/textInput.tag
+END
+numberInput.tag
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/27686/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/tags/numberInput.tag
+END
+button.tag
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/27686/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/tags/button.tag
+END
+patientList.tag
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/27686/openmrs-modules/rwandaprimarycare/trunk/omod/src/main/webapp/tags/patientList.tag
+END

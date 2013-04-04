@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/27248/openmrs-modules/rwandaprimarycare/trunk/api/src/main/java/org/openmrs/module/rwandaprimarycare/db/hibernate
+END
+HibernatePrimaryCareDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/!svn/ver/27248/openmrs-modules/rwandaprimarycare/trunk/api/src/main/java/org/openmrs/module/rwandaprimarycare/db/hibernate/HibernatePrimaryCareDAO.java
+END
