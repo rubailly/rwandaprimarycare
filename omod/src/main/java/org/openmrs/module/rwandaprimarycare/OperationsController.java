@@ -10,15 +10,19 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
 public class OperationsController {
-	
+
 	protected static final Log log = LogFactory
-	.getLog(MyPropertiesController.class);
-	
-	@RequestMapping("/module/rwandaprimarycare/operations")
-	public String showOperations(ModelMap model, HttpSession session)
+			.getLog(MyPropertiesController.class);
+
+	@RequestMapping("/module/rwandaprimarycare/buy")
+	public String showBuy(ModelMap model, HttpSession session)
 			throws PrimaryCareException {
-
-		return "/module/rwandaprimarycare/operations";
+		return "/module/rwandaprimarycare/buyPage";
 	}
-
+	
+	@RequestMapping("/module/rwandaprimarycare/sell")
+	public String showSell(ModelMap model, HttpSession session)
+			throws PrimaryCareException {
+		return "/module/rwandaprimarycare/sellPage";
+	}
 }

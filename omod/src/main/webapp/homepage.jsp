@@ -22,7 +22,8 @@
 	<c:set var="myPropertiesStr"><spring:message code="rwandaprimarycare.touchscreen.myProperties"/></c:set>
 	<c:set var="goToDiagnosisApp"><spring:message code="rwandaprimarycare.goToDiagnosisApplication"/></c:set>
 	
-	<c:set var="operations"><spring:message code="rwandaprimarycare.touchscreen.operations"/></c:set>	
+	<c:set var="buy"><spring:message code="rwandaprimarycare.touchscreen.buy"/></c:set>	
+	<c:set var="sell"><spring:message code="rwandaprimarycare.touchscreen.sell"/></c:set>	
 	<c:set var="review"><spring:message code="rwandaprimarycare.touchscreen.review"/></c:set>
 	
 	
@@ -43,7 +44,11 @@
 	
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	
-	<touchscreen:button label="${operations}" href="operations.form"/>
+	<touchscreen:button label="${buy}" href="buy.form"/>
+	
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	
+	<touchscreen:button label="${sell}" href="sell.form"/>
 	
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	
