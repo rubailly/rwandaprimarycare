@@ -1,0 +1,23 @@
+package org.openmrs.module.rwandaprimarycare;
+
+import javax.servlet.http.HttpSession;
+
+import org.apache.commons.logging.Log;
+import org.apache.commons.logging.LogFactory;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.ModelMap;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class ReviewController {
+	
+	protected static final Log log = LogFactory.getLog(ReviewController.class);
+	
+	@RequestMapping("/module/rwandaprimarycare/review")
+	public String showReview(ModelMap model, HttpSession session)
+			throws PrimaryCareException {
+
+		return "/module/rwandaprimarycare/review";
+	}
+
+}

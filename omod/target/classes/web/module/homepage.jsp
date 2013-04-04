@@ -22,8 +22,11 @@
 	<c:set var="myPropertiesStr"><spring:message code="rwandaprimarycare.touchscreen.myProperties"/></c:set>
 	<c:set var="goToDiagnosisApp"><spring:message code="rwandaprimarycare.goToDiagnosisApplication"/></c:set>
 	
+	<c:set var="operations"><spring:message code="rwandaprimarycare.touchscreen.operations"/></c:set>	
+	<c:set var="review"><spring:message code="rwandaprimarycare.touchscreen.review"/></c:set>
 	
-	<touchscreen:button label="${searchByIdStr}" href="findPatientById.form"/>
+	
+	<%-- <touchscreen:button label="${searchByIdStr}" href="findPatientById.form"/>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<touchscreen:button label="${searchByNameStr}" href="findPatientByName.form"/>
 
@@ -36,7 +39,16 @@
 	<openmrs:hasPrivilege privilege="Generate Bulk Primary Care Ids All Locations">
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<touchscreen:button label="${bulkIdGeneration}" href="bulkGenerateIds.form"/>
-	</openmrs:hasPrivilege>
+	</openmrs:hasPrivilege> --%>
+	
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	
+	<touchscreen:button label="${operations}" href="operations.form"/>
+	
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	
+	<touchscreen:button label="${review}" href="review.form"/>
+	
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	
 	<touchscreen:button label="${myPropertiesStr}" href="myProperties.form"/>
